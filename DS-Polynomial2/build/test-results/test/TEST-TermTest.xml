@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TermTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-02-23T02:59:57" hostname="DESKTOP-FTF958E" time="0.005">
+  <properties/>
+  <testcase name="testGetSetExponent" classname="TermTest" time="0.002"/>
+  <testcase name="testEqualsFalse" classname="TermTest" time="0.0"/>
+  <testcase name="testCopyConstructor" classname="TermTest" time="0.0"/>
+  <testcase name="testClone" classname="TermTest" time="0.0"/>
+  <testcase name="testToString" classname="TermTest" time="0.0"/>
+  <testcase name="testCompareTo" classname="TermTest" time="0.0"/>
+  <testcase name="testFullConstructor" classname="TermTest" time="0.0"/>
+  <testcase name="testEqualsTrue" classname="TermTest" time="0.0"/>
+  <testcase name="testGetSetCoefficient" classname="TermTest" time="0.0"/>
+  <testcase name="testStringConstructor" classname="TermTest" time="0.001"/>
+  <testcase name="testSetAll" classname="TermTest" time="0.0"/>
+  <testcase name="testDefaultConstructor" classname="TermTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
